@@ -1,2 +1,1 @@
-# Data-Exploration-and-analysis (Retail Strategy and
-Analytics)
+# Data-Exploration-and-analysis (Retail Strategy and Analytics)
